@@ -1,0 +1,54 @@
+{
+    "Nord VPN": [
+        "username1:password1",
+        "username2:password2"
+    ],
+    "Express VPN": [
+        "username3:password3",
+        "username4:password4"
+    ],
+    "Surfshark VPN": [
+        "username5:password5",
+        "username6:password6"
+    ],
+    "PIA VPN": [
+        "username7:password7",
+        "username8:password8"
+    ],
+    "Hotspot Shield VPN": [
+        "username9:password9",
+        "username10:password10"
+    ],
+    "PRIME VIDEO": [
+        "username11:password11",
+        "username12:password12"
+    ],
+    "CAPCUT": [
+        "username13:password13",
+        "username14:password14"
+    ],
+    "Canva": [
+        "username15:password15",
+        "username16:password16"
+    ],
+    "WhatsApp Number": [
+        "username17:password17",
+        "username18:password18"
+    ],
+    "Apple Music": [
+        "username19:password19",
+        "username20:password20"
+    ],
+    "Crunchyroll": [
+        "username21:password21",
+        "username22:password22"
+    ],
+    "YouTube Premium": [
+        "username23:password23",
+        "username24:password24"
+    ],
+    "Trading View": [
+        "username25:password25",
+        "username26:password26"
+    ]
+}
